@@ -5,7 +5,9 @@ This is a **rule-based chatbot** created as part of the CodeAlpha Python Interns
 It responds to a few predefined inputs like greetings, "how are you", and "bye".  
 The chatbot runs in the terminal and keeps responding until the user types a goodbye message.
 
----
+screenshot of output
+
+<img width="1864" height="962" alt="Screenshot 2025-08-13 190216" src="https://github.com/user-attachments/assets/7eb85cdf-f0ef-4ce3-a34b-0f34de443b9d" />
 
 ## 🚀 Features
 - Responds to:
